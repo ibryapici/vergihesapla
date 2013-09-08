@@ -46,7 +46,7 @@
 </div>
 </div>
 <div class="span12">
-<a href="vergihesapla.zip">Script İndir</a>
+<a href="https://github.com/ibryapici/vergihesapla" target="_blank">Script İndir</a>
 </div>
 </div>
 </body>
